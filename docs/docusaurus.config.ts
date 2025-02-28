@@ -13,12 +13,12 @@ const config: Config = {
   url: 'https://lexun.com.br',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/2025-1A-T02-G83-PUBLICO/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'lexun', // Usually your GitHub org/user name.
-  projectName: 'lexun-docs', // Usually your repo name.
+  organizationName: 'Inteli-College', // Usually your GitHub org/user name.
+  projectName: '2025-1A-T02-G83-PUBLICO', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
