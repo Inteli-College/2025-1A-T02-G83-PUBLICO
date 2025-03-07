@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[577],{2345:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/2025-1A-T02-G83-PUBLICO/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
