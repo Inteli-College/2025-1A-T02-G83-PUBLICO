@@ -34,7 +34,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Lexun - AI-powered legal platform that revolutionizes how legal professionals interact with their documents and knowledge">
       <HomepageHeader />
       {/* <main>
         <HomepageFeatures />
