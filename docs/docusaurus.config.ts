@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Lexun Docs',
-  tagline: 'Documentação do Lexun',
+  tagline: 'Lexun documentation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
