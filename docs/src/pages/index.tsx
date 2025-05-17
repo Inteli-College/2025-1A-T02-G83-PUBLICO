@@ -34,7 +34,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Lexun - AI-powered legal platform that revolutionizes how legal professionals interact with their documents and knowledge">
+      description="Magic Mango - AI-powered creative strategy platform that revolutionizes how marketing teams develop and manage their advertising campaigns">
       <HomepageHeader />
       {/* <main>
         <HomepageFeatures />

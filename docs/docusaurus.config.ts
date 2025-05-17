@@ -5,12 +5,18 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Lexun Docs',
-  tagline: 'Lexun documentation',
+  title: 'Magic Mango Docs',
+  tagline: 'Magic Mango documentation',
   favicon: 'img/favicon.ico',
 
+  markdown: {
+    mermaid: true,
+  },
+
+  themes: ['@docusaurus/theme-mermaid'],
+
   // Set the production url of your site here
-  url: 'https://lexun.com.br',
+  url: 'https://magicmango.ai',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/2025-1A-T02-G83-PUBLICO/',
@@ -71,7 +77,7 @@ const config: Config = {
     navbar: {
       title: 'Docs',
       logo: {
-        alt: 'Lexun Logo',
+        alt: 'Magic Mango Logo',
         src: 'img/logo.svg',
       },
     },
